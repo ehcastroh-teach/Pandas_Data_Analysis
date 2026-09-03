@@ -145,7 +145,7 @@ pip install openpyxl xlrd
 
 The admissions dataset used in Part 2 is sourced from the R Datasets repository (UCBAdmissions). Original dataset credit: P. J. Bickel, E. A. Hammel, and J. W. O'Connell (1975).
 
-Notebook content draws on material originally developed for introductory data science coursework. Additional references and inspiration from the Pandas open source project and the broader Python data science community.
+Additional references and inspiration from the Pandas open source project and the broader Python data science community.
 
 ---
 
